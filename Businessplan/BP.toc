@@ -1,0 +1,12 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Executive Summary}{1}
+\contentsline {section}{\numberline {2}Unternehmensziele}{1}
+\contentsline {section}{\numberline {3}Produkt}{1}
+\contentsline {section}{\numberline {4}Branche und Markt}{1}
+\contentsline {section}{\numberline {5}Marketing}{1}
+\contentsline {section}{\numberline {6}Organisation und Gesch\"aftssystem}{1}
+\contentsline {section}{\numberline {7}Management und Schl\"usselpositionen}{1}
+\contentsline {section}{\numberline {8}Realisationsplanung}{2}
+\contentsline {section}{\numberline {9}Ertrags-, Liquidit\"ats- und Finanzplanung}{3}
+\contentsline {section}{\numberline {10}Chancen und Risiken}{4}
+\contentsline {section}{\numberline {11}Gr\"underteam}{5}
